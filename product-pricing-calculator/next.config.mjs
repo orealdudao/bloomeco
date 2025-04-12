@@ -23,7 +23,6 @@ const nextConfig = {
     unoptimized: true,
   },
   experimental: {
-    appDir: true, // <- ATIVANDO APP ROUTER
     webpackBuildWorker: true,
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
